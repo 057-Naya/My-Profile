@@ -41,9 +41,9 @@ Saya senang mempelajari hal-hal baru dan mengembangkan kemampuan melalui tugas, 
 
 <div align="center">
 
-### 🚀 Ingin melihat biodata secara lengkap?
+### 🚀 video p1 
 
-[![OPEN BIODATA](https://img.shields.io/badge/✦_BUKA_BIODATA_LENGKAP-7c3aed?style=for-the-badge)](./biodata/index.html)
+[![OPEN BIODATA](https://img.shields.io/badge/✦_BUKA_BIODATA_LENGKAP-7c3aed?style=for-the-badge)](https://youtu.be/1UN8KHJR1Nk)
 
 </div>
 
