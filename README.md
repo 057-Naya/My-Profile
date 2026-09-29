@@ -43,7 +43,7 @@ Saya senang mempelajari hal-hal baru dan mengembangkan kemampuan melalui tugas, 
 
 ### 🚀 video p1 
 
-[![OPEN VIDEO P1](_LINK_VIDEO_P1)](https://youtu.be/1UN8KHJR1Nk)
+[[OPEN VIDEO P1](_LINK_VIDEO_P1)](https://youtu.be/1UN8KHJR1Nk)
 
 </div>
 
