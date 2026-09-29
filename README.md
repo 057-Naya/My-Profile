@@ -11,7 +11,7 @@ my repository dan project pemograman berbasis platfrom
 
 <br>
 
-[![Biodata](https://img.shields.io/badge/🚀_Biodata_Lengkap-06b6d4?style=for-the-badge&logoColor=white)](./biodata/index.html)
+[![Biodata](https://img.shields.io/badge/🚀_Biodata_Lengkap-06b6d4?style=for-the-badge&logoColor=white)](https://057-naya.github.io/My-Profile/biodata)
 
 </div>
 
