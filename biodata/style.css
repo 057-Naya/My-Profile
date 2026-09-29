@@ -13,7 +13,7 @@
 .photo-border {
     width: 280px;
     height: 280px;
-    padding: 6px;
+    padding: 7px;
     border-radius: 50%;
     overflow: hidden;
     background: linear-gradient(135deg, #22d3ee, #a855f7);
